@@ -1,3 +1,3 @@
 window.sys_con = {
-  baseURL: 'https://api.fooot.top/api/',
+  baseURL: 'https://api.fooof.top/api/',
 }
