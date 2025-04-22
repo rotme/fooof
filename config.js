@@ -1,3 +1,3 @@
 window.sys_con = {
-  baseURL: 'http://nas.taiwu.tech:7000/api/',
+  baseURL: 'https://royal-frost-c44d.taiwutech.workers.dev/api/',
 }
